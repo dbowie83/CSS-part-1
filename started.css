@@ -1,0 +1,98 @@
+body {
+    background-color:#d6e6f2;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+  }
+  #navbar {
+    width: 100%;
+    background-color: dodgerblue;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    display: block;
+  }
+  #nav-element {
+    margin: 0;
+    top: 0;
+    position: fixed;
+    padding: 0;
+    display: block;
+  }
+  header {
+    margin: 0;
+  }
+  #title {
+    text-align: center;
+  }
+  #head {
+    float: left;
+  }
+  main {
+    margin: 70px auto;
+    width: 65%;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 3px 5px 10px #888888;
+
+  }
+  
+  footer {
+    background-color: dodgerblue;
+    width: auto;
+    height: 30px;
+    text-align: center;
+    margin-top: 0;
+  }
+  #cpu {
+    width: 30px;
+    display: inline;
+    margin-left: 50px;
+  }
+  h2 {
+    display: inline;
+    margin-left: 20px;
+    font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
+  }
+  #started {
+    width: 500px;
+    display: block;
+    margin: 0 auto 50px auto;
+    
+  }
+  
+  #head {
+    margin: 20px;
+  }
+  
+  h1 {
+    margin: 30px auto 0 auto;
+      text-align: center;
+    font-size: 42px;
+  }
+  
+  h6 {
+    margin: 0 auto 10px auto;
+    text-align: center;
+  }
+  
+  #languages {
+    text-align: center;
+    margin: 0;
+  }
+  
+  #social-media {
+    text-align:center;
+    margin-bottom: 25px;
+  }
+  
+  #content {
+    width: 80%;
+    margin: 0 auto 20px auto;
+    line-height: 1.8;
+    font-size: 18px;
+  }
+  
+  .fb-share-button:hover{
+    opacity: 0.8;
+  }
