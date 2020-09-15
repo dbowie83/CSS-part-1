@@ -3,21 +3,48 @@ body {
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
   }
-  #navbar {
-    width: 100%;
-    background-color: dodgerblue;
-    position: fixed;
-    top: 0;
-    text-align: center;
-    display: block;
-  }
-  #nav-element {
+
+  ul {
+    list-style-type: none;
     margin: 0;
-    top: 0;
-    position: fixed;
     padding: 0;
-    display: block;
+    overflow: hidden;
+    background-color: rgb(47, 98, 150);
+    position: fixed;
+    width: 100%;
+    top: 0;
   }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   header {
     margin: 0;
   }
