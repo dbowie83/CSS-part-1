@@ -35,14 +35,7 @@ body {
     box-shadow: 3px 5px 10px #888888;
 
   }
-  
-  footer {
-    background-color: dodgerblue;
-    width: auto;
-    height: 30px;
-    text-align: center;
-    margin-top: 0;
-  }
+
   #cpu {
     width: 30px;
     display: inline;
@@ -81,11 +74,7 @@ body {
     margin: 0;
   }
   
-  #social-media {
-    text-align:center;
-    margin-bottom: 25px;
-  }
-  
+
   #content {
     width: 80%;
     margin: 0 auto 20px auto;
@@ -93,6 +82,3 @@ body {
     font-size: 18px;
   }
   
-  .fb-share-button:hover{
-    opacity: 0.8;
-  }
